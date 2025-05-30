@@ -1,0 +1,9 @@
+{
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "avdmanager.executable": "c:\\Users\\del\\.android\\avd\\Pixel_9_Pro_API_35.ini"
+}
